@@ -1,0 +1,10 @@
+{
+  "name": "alfred-workflow-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.12.0"
+  }
+}
